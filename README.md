@@ -10,6 +10,14 @@ Um aplicativo **Kotlin Multiplatform** que consome a [PokéAPI](https://pokeapi.
 |---|---|
 | Grid paginado com imagens oficiais | Stats, tipos, altura e peso |
 
+# MOBILE
+
+| ![Home](.github/images/home.png) | ![Details](.github/images/details.png) |
+
+# DESKTOP
+
+| ![HomeDesktop](.github/images/home_desktop.png) | ![DetailsDesktop](.github/images/details_desktop.png) |
+
 ---
 
 ## 🏗️ Stack Técnica
