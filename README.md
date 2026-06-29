@@ -217,7 +217,3 @@ pokemonkmp/
 ## 👨‍💻 Autor
 
 **Giovanni Montanari** — [giovannimontanari](https://github.com/giiomontanari)
-
----
-
-*Feito com ❤️ e muito Kotlin*
