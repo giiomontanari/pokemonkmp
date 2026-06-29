@@ -216,7 +216,7 @@ pokemonkmp/
 
 ## 👨‍💻 Autor
 
-**Giovanni Montanari** — [giovannimontanari](https://github.com/giovannimontanari)
+**Giovanni Montanari** — [giovannimontanari](https://github.com/giiomontanari)
 
 ---
 
