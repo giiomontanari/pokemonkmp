@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PokémonKMP</string>
+    <string name="try_again">Tentar novamente</string>
+    <string name="back">Voltar</string>
+    <string name="height_poke">Altura</string>
+    <string name="weight_poke">Peso</string>
+    <string name="base_stats">Base Stats</string>
+</resources>
